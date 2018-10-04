@@ -1,0 +1,21 @@
+#single-movie-container {
+    text-align: center;
+    margin: 30px;
+    line-height: 25px;
+}
+
+#single-movie-container h1, #length {
+    margin: 10px 0;
+}
+
+#sub-container {
+    text-align: left;
+}
+
+.movie-tag {
+    background-color: rgb(228, 206, 206);
+    color: black;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
